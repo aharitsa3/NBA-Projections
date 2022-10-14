@@ -25,6 +25,7 @@ After the model is fitted, a prediction dataset can be passed into the same mode
 
 #### Outputs
 Actual       |         Team  |  Pred_Rk | Predicted
+--- | --- | --- | --- 
 10 |         Denver Nuggets |  7.629915   |    1
 9  |              Utah Jazz |  8.382894   |    2
 3  |  Golden State Warriors |  9.128107   |    3
